@@ -1,9 +1,6 @@
-@font-face {
-	font-family: 'Roboto-Thin";
-	src: url('Roboto-Thin.ttf'); 
-}
+
 body {
-	font-family: Roboto-Thin, "Helvetica", Sans-serif;
+	font-family: Georgia1, Georgia, serif;
 	background-color:#FFFFFF;
 	text-align: left;
 	margin-left: 5%;
@@ -62,7 +59,10 @@ ul {
 	padding-top: 50px;
 	overflow:hidden;
 }
-
+ ul.abt {
+ list-style-type: disc;
+ font-size: 20px;
+ }
 li {
 	float:left;
 	font-size: 20px;
