@@ -1,6 +1,6 @@
 
 body {
-	font-family: Georgia1, Georgia, serif;
+	font-family: 'Libre Baskerville', serif;
 	background-color:#FFFFFF;
 	text-align: left;
 	margin-left: 5%;
@@ -52,6 +52,9 @@ div.banner  {
 }
 div.fb-page {
 	float: left;
+}
+div#oklahoma {
+	padding-right: 10px;
 }
 ul {
 	list-style-type: none;
