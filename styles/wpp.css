@@ -62,10 +62,10 @@ div#oklahoma_info {
 
 }
 div.fb-page {
-	float: left;
+	float: right;
 	width: 30%;
-	background-color:purple;
-}
+/*	background-color:purple;
+*/}
 
 ul {
 	list-style-type: none;
