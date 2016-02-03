@@ -66,6 +66,8 @@ div#oklahoma_info {
 div.fb-page {
 	float: right;
 	width: 30%;
+	padding-bottom: 75px;
+	padding-right: 100px;
 }
 p.footer-padding {
 	padding-bottom: 75px;
